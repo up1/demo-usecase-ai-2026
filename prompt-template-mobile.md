@@ -108,6 +108,9 @@ Example output that use in step 2 and 3
 5. CTA กระตุ้นการสั่งซื้อ
 6. Hashtags
 7. ห้ามใส่ข้อมูลที่ไม่ได้รับมา และ emoticon ต่าง ๆ
+
+Product Information:
+[Insert product data]
 ```
 
 ## 3. Prompt template to generate image prompt for AI Image Generator to create a product advertisement image for Smartphone on Facebook
@@ -159,6 +162,9 @@ Format:
 
 Image Size:
 1200 x 628 pixels (Facebook Ad Image Size)
+
+Product Information:
+[Insert product data]
 ```
 
 ### Change to shibi cartoon style
@@ -194,6 +200,9 @@ Format:
 เหมาะสำหรับ Facebook
 Image Size:
 1200 x 628 pixels (Facebook Ad Image Size)
+
+Product Information:
+[Insert product data]
 ```
 
 ### Change into third style
@@ -337,6 +346,9 @@ high-end electronics brand presentation,
 sharp typography edges,
 premium visual storytelling,
 commercial social-media masterpiece.
+
+Product Information:
+[Insert product data]
 ```
 
 Sample input for third style
