@@ -161,7 +161,7 @@ Format:
 เหมาะสำหรับ Facebook
 
 Image Size:
-1200 x 628 pixels (Facebook Ad Image Size)
+1080x566 pixels
 
 Product Information:
 [Insert product data]
@@ -199,7 +199,7 @@ Sky Blue และสีสันสดใส
 Format:
 เหมาะสำหรับ Facebook
 Image Size:
-1200 x 628 pixels (Facebook Ad Image Size)
+1080x566 pixels
 
 Product Information:
 [Insert product data]
@@ -334,7 +334,7 @@ FORMAT:
 Facebook 
 
 Image Size:
-1200 x 628 pixels (Facebook Ad Image Size)
+1080x566 pixels
 
 QUALITY:
 Ultra high resolution,
