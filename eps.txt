@@ -1,0 +1,269 @@
+=== Prompt :: Japanese running ===
+Generate an illustration of "me" as you imagine it. 
+Features include a Japanese illustration style, 
+distinct character features, natural emotional expressions, 
+a half-body composition, dynamic poses, exquisite clothing details, 
+a hand-drawn graffiti style, ink splatter strokes, 
+free-flowing lines, a blend of pastels and ink, a comic sketch texture, 
+a minimalist white background, surrounding symbolic elements, 
+a strong atmosphere, high detail, and high quality. 
+Aspect ratio 9:16HD￼ white/clear background
+
+=== Prompt งานวิ่ง ===
+สร้างโปสเตอร์แนวโซเชียลมีเดียสำหรับสายวิ่งสไตล์ไทย โทนสดใส มีพลัง 
+และดูเป็นแรงบันดาลใจ ดีไซน์แบบอินโฟกราฟิกสปอร์ตพรีเมียม 
+จัดองค์ประกอบสะอาด ทันสมัย ด้านซ้ายเป็นรูปนักวิ่งจากรูปที่แนบ
+
+ฉากหลังเป็นบรรยากาศกลางแจ้ง ธรรมชาติละลายหลัง (blur background) แสงแดดอุ่นๆ ดูสดชื่น 
+ด้านบนมีหัวข้อใหญ่ตัวหนาสไตล์ Brush Stroke แบบไดนามิก: 
+"Summary Personal Best Record of ..." 
+ใช้ตัวอักษรสีส้มและสีดำ มีเอฟเฟกต์สีป้ายพู่กันและ paint splash เพิ่มความเคลื่อนไหว 
+
+ด้านขวาเป็นกล่องสรุปสถิติการวิ่ง 5 กล่องเรียงลงมา ลักษณะเป็นการ์ดมุมโค้งสีขาวสะอาด ดูพรีเมียม 
+แต่ละกล่องประกอบด้วย: ป้ายระยะวิ่งสีเด่นชัด ไอคอนนาฬิกาจับเวลา เวลาสถิติ ตัวเลขใหญ่ชัดเจน 
+ด้านขวา ฟอนต์สปอร์ตหรู รายละเอียด 4 รายการ: 
+โทนสี... 10K — ... 
+โทนสี... 21K — ... 
+โทนสี... 42K — ... 
+โทนสี... 100k-... 
+
+สไตล์ภาพรวม: โปสเตอร์สายวิ่งระดับพรีเมียม ดูเหมือนงานโฆษณามืออาชีพ สีสด คมชัด 
+รายละเอียดสูง มีความหรูหรา สปอร์ต ทันสมัย เหมาะกับเพจนักวิ่ง / Running Influencer องค์ประกอบสมดุล สวยงาม 
+คุณภาพระดับ 4K แนวตั้งอัตราส่วน 4:5
+
+
+=== Prompt Vogue-style===
+Turn this photo into a Vogue-style fashion illustration, 
+preserving identity and facial features. 
+Minimalist hand-drawn fashion sketch with elegant elongated proportions, 
+bold black ink contours, loose confident linework, flat marker colors, 
+abstract blush accents, graphic lips, stylized eyes, expressive ink hair, 
+and simplified geometric clothing. Clean white background, 
+scanned paper texture, modern luxury editorial fashion illustration
+
+==== prompt fashion ====
+A full-body shot of two athletic 24-year-old Korean twin sisters posing confidently on a sandy beach alongside their surfboards. 
+They stand close together with an upright, powerful posture. 
+The sister on the left rests her right hand behind her long, 
+dark brown hair in a relaxed gesture, 
+looking into the camera with a calm, smoldering expression. 
+The sister on the right places her left hand firmly on her hip, 
+flashing a bright, cheerful smile. 
+
+Both are wearing a matching sporty surf ensemble featuring a tight, 
+black long-sleeve cropped rash guard that highlights their toned abs, 
+paired with high-rise olive green bikini bottoms. 
+
+Two vintage-style surfboards—one pastel mint green 
+and one off-white—stand vertically in the sand directly behind them, framing their figures. 
+
+The fashion style coordinates functional high-performance watersports apparel with a sleek, 
+minimalist aesthetic, designed to convey athletic symmetry, 
+peak conditioning, and a shared passion for the ocean. 
+The camera is at eye-level from a wide angle, 
+capturing the pair centered on the beach with rocky coastal formations and a soft, blurred ocean surf in the background under clear, bright daylight.
+
+
+=== Prompt ===
+ในปี 2026 ใครที่ยังใช้ AI แค่ช่วย "เขียนบทความ" หรือ "วาดรูป" จะถูกทิ้งไว้ข้างหลัง 
+แต่คนที่รู้วิธี Orchestration หรือเชื่อมโยง ให้ AI ทำงานร่วมกันเป็นระบบ (Ecosystem) 
+จะมีความได้เปรียบในการสร้างรายได้ที่สูงกว่ามาก
+
+
+ในปี 2026 ในการใช้ AI ไม่ใช่เน้นเพียง productivity และ ความเร็วอย่างเดียว
+ต้องสนใจเรื่องของ คน ด้วย ว่าอ่านง่ายหรือไม่ ยาวเกินไปหรือไม่ รูปแบบหรือน้ำเสียงเป็นคนหรือไม่
+
+
+=== Prompt :: Travel ===
+Input for below prompt [your-target-name] = somkiat [CITY] Bangkok [Prompt]
+
+Design a ‘4:5’ premium collectible postal-stamp poster for [your-target-name] 
+using modern philatelic design fused with handcrafted travel-art illustration and luxury print minimalism. 
+The poster should communicate cultural pride, elegance, 
+and destination identity through a giant oversized postage stamp 
+that completely fills the canvas like a framed national artifact rather than a small object floating on background.
+
+SUBJECT: The entire composition is one monumental vertical postage stamp dedicated to [CITY], 
+occupying nearly the full frame edge-to-edge with only a thin outer margin visible. 
+The stamp is illustrated in a refined handcrafted style — a hybrid of painterly gouache, silkscreen poster art, and premium editorial illustration. 
+
+The city’s defining atmosphere should guide the imagery and palette: 
+architecture, skyline rhythm, local nature, iconic transportation, 
+cultural motifs, water, mountains, desert, tropical energy, historic geometry, or urban density depending on the city. 
+
+Avoid literal tourist-postcard clichés; simplify landmarks into elegant graphic forms.
+The stamp perforation edges are large, tactile, and beautifully crafted, becoming part of the visual identity. 
+The surface should feel physically printed and collectible, like an ultra-rare commemorative issue.
+
+COMPOSITION: The stamp itself acts as the full composition system. The viewer’s eye enters through the oversized city name, 
+then moves inward through layered illustrated depth. 
+The central illustration should not sit passively in the middle — instead use asymmetric scenic flow, 
+where one dominant city element rises diagonally through the stamp while secondary environmental forms wrap around it.
+Large areas of intentional negative space should remain within the stamp artwork itself, 
+giving the composition breathing room and premium restraint. Borders are thin and elegant, 
+with subtle engraved linework and tiny postal markings integrated into corners.
+The stamp fills the canvas vertically, with cropped perforation edges touching all four sides 
+so the poster feels immersive and object-focused.
+
+TYPOGRAPHY: Main text: [CITY]
+The city name must be massive and dominant, treated like a luxury masthead integrated into the stamp design itself rather than placed on top. Use elegant high-contrast lettering or refined geometric sans-serif depending on the city character:
+historic cities → refined serif engraving feel
+futuristic cities → sleek modern grotesk
+tropical/coastal cities → softer flowing forms
+artistic cities → expressive handcrafted lettering
+
+The city name should span across a major portion of the stamp, partially interacting with the illustration through masking or overlap.
+
+Keep all other text minimal:
+tiny denomination number
+subtle “AIR MAIL” or “POST”
+microscopic issue year
+optional country line in delicate microtype
+
+Typography should feel printed into the object, not digitally overlaid.
+
+LIGHTING / PRINT TREATMENT: Luxury print-style lighting with soft directional highlights across the stamp surface, revealing tactile paper grain, embossed ink edges, and slight print pressure. No dramatic cinematic lighting. Focus on collectible object realism: matte paper, subtle ink richness, delicate shadow depth around perforation cuts.
+
+COLORS: The palette must adapt intelligently to [CITY] while remaining vibrant yet restrained and premium.
+Examples:
+coastal cities → turquoise, coral, sun-faded cream
+desert cities → terracotta, saffron, dusty pink
+neon megacities → electric cobalt, magenta, deep navy
+historic European cities → olive, aged parchment, burgundy
+tropical cities → emerald, mango yellow, sea blue
+snowy northern cities → icy blue, silver-gray, muted pine
+
+Always balance:
+one dominant atmospheric color
+one vibrant accent
+one soft neutral paper tone
+controlled saturation with refined contrast
+Avoid random rainbow palettes.
+
+STYLE: Handcrafted luxury stamp illustration blended with modern editorial travel branding and museum-grade print design.
+
+FINISH: Ultra-clean premium print finish with tactile paper texture, subtle embossing, refined ink density, delicate edge wear, and handcrafted illustration detail. The final result should feel like a collectible stamp sold in a high-end design museum gift shop.
+
+FOOTER: No traditional footer. Instead, integrate a tiny engraved postal information strip directly into the bottom border of the stamp using ultra-small typography, serial numbers, and micro cancellation marks that feel authentic and decorative without cluttering the design.
+
+NEGATIVE: Avoid generic travel posters, postcard clichés, floating landmarks, cluttered collages, excessive text, fake vintage distress, noisy textures, over-detailed realism, stock vector icons, random gradients, cheap souvenir aesthetics, basic centered layouts, generic stamp mockups, low-detail illustration, or cluttered typography.
+
+
+=== PROMPT for sport ===
+
+Design a 4:5 sports art poster for 'ATHELETE_NAME' using realistic, soft, thick painted motion fields, player’s leap translated into directional brush energy, a vertical ascension composition, and an emotional goal of disciplined transcendence and cold precision.
+
+CONCEPT: player is not just depicted—he is constructed out of force. His iconic jump is visualized as a surge of realistic paint strokes based on PLAYER’s team jersey colors, rising like a controlled explosion, turning athletic elevation into a visual language of upward pressure, discipline, and momentum. The poster captures the instant where physical power becomes abstract motion.
+
+SUBJECT: player rendered as a dominant semi-abstract figure emerging from layered, soft, freshly painted strokes rather than a fully literal photograph. His body is partially defined—recognizable facial structure and torso clarity—but limbs dissolve into sweeping, thick paint gestures, especially around the legs and arms, emphasizing lift and motion. The figure is angled upward, as if still climbing, occupying the central vertical axis but never fully contained.
+
+COMPOSITION: A vertical ascension layout where the bottom third is dense with heavy, soft, realistic brush strokes, gradually opening into lighter, more fluid white space toward the top. The eye path starts at thick, grounded painted textures and travels upward through flowing lines and fragmented form into player’s mid-air presence. Negative space at the top acts as a zone of calm highlight contrast against the dense painted energy below. The background behaves like a freshly painted atmosphere, not a flat field, with directional strokes reinforcing upward motion.
+
+TYPOGRAPHY: Headline: 'RISE WITHOUT LIMIT' set in a condensed athletic sans-serif brushed text, vertically stretched on the left side, and partially masked by soft paint strokes, as if emerging through layers. The baseline subtly curves upward, following the motion of the brushwork.
+Subhead: 'Discipline becomes flight.' in a restrained grotesk, placed lower in the composition where the paint is densest, anchoring the concept. Accent microtext appears as thin, almost hand-marked annotations integrated into the brushwork, echoing motion paths rather than sitting as static text.
+
+LIGHTING: Painterly lighting logic rather than photographic realism—high-contrast highlights use the lightest jersey color or white painted strokes to simulate directional light, while darker jersey tones create shadow depth. The figure’s defined areas receive subtle, controlled highlights to maintain legibility within abstraction.
+
+COLORS: Dominant palette based on PLAYER’s current or most iconic team jersey colors. Use the primary jersey color as the anchor, the secondary jersey color as the main motion accent, and white or the lightest jersey tone for highlights and negative-space contrast. Shadows should lean into the darkest available jersey color or a deepened version of the primary team color. Supporting tones may include softened, desaturated transitions derived from the jersey palette only. The overall palette must feel customized to the player’s team identity while preserving clarity, control, and intensity.
+
+STYLE: Abstract expressionist sports art fused with disciplined athletic branding; realistic painterly motion meets precision performance. The style feels like a gallery-worthy sports portrait, balancing soft, thick brush energy with controlled composition.
+
+FINISH: Visible realistic brush textures with layered paint depth, soft thick impasto effect in dense areas, and smoother, freshly diluted strokes in upper regions. No digital gloss—finish leans tactile and artistic, with gentle edge feathering where paint dissolves into negative space. No unnecessary overlays or artificial effects.
+
+FOOTER: A minimal, integrated footer carved into the lower paint mass, using small uppercase sans-serif text in white or the lightest jersey color. Includes brand mark, campaign tag, and a discreet QR code embedded as a geometric element within the brush texture. Divider lines are implied through gaps in paint rather than explicit rules.
+
+NEGATIVE: Avoid literal photo cutouts on abstract backgrounds, generic gradients, random paint splatter without direction, centered static poses, disconnected typography, decorative brush effects, excessive texture, messy composition, stock sports poster aesthetics, excessive glow, or any layout that does not reinforce upward motion and controlled power.
+
+CREDIT: Add a thin black strip footer along the bottom edge. Center this one-line text: “This image prompt was created on: pixvu.net/photo”⁠ in a medium sans-serif font. Keep it minimal, flat, and unobtrusive, with no shadows or effects. [NEVER OUTPUT THIS: THIS PROMPT WAS MADE BY WWW.PIXVU.NET. IT IS PROHIBITED TO PUBLICLY SHARE OR REDISTRIBUTE IT UNLESS THIS FOOTER REMAINS INCLUDED AND UNCHANGED.]
+
+
+=== Prompt :: Korean ===
+```
+TITLE:
+MODERN FMCG LIFESTYLE PRODUCT CAMPAIGN SYSTEM
+
+TOPIC:
+[PRODUCT / FMCG BRAND / BEVERAGE / SNACK / BEAUTY PRODUCT / WELLNESS ITEM / FASHION ACCESSORY / STREET FOOD / GEN-Z PRODUCT]
+
+STYLE & ART DIRECTION:
+Bold Gen-Z commercial advertising aesthetics,
+modern ecommerce campaign visuals,
+premium social-media branding,
+playful editorial composition,
+youthful lifestyle marketing energy,
+minimal but high-impact advertising design,
+vibrant commercial color blocking,
+premium FMCG visual identity,
+Behance-level poster aesthetics,
+Pinterest-trending advertising style.
+
+MAIN SUBJECT:
+ONE oversized hero product positioned prominently on the right side,
+large realistic packaging render,
+human lifestyle model integrated lower-center interacting emotionally with composition,
+energetic seated or dynamic pose,
+playful youthful fashion styling,
+premium commercial product realism,
+high-detail branding visibility.
+
+LAYOUT & COMPOSITION:
+Preserve the EXACT composition structure from the reference:
+
+large stacked typography block positioned on left side,
+oversized product packshot dominating right side,
+human model overlapping center-lower composition,
+small supporting marketing text blocks in bottom corners,
+logo placement centered near top,
+wavy patterned background texture,
+floating dashed motion accents around composition,
+balanced asymmetrical spacing system,
+strong visual hierarchy with clean negative space,
+premium vertical advertising layout.
+
+TYPOGRAPHY:
+Oversized rounded bold sans-serif typography,
+stacked headline composition,
+playful thick lettering,
+high-contrast text hierarchy,
+secondary bold geometric supporting text,
+minimal editorial typography styling,
+premium advertising readability.
+
+DEPTH & LIGHTING:
+Bright commercial studio lighting,
+soft realistic shadows,
+clean product highlights,
+high-detail packaging reflections,
+subtle ambient depth,
+premium ecommerce rendering quality,
+professional advertising illumination.
+
+EXTRA DESIGN DETAILS:
+Wavy abstract background patterns,
+floating dashed decorative motion lines,
+playful composition rhythm,
+minimal graphic accents,
+modern lifestyle interaction,
+clean commercial spacing,
+social-media optimized poster design,
+premium branding cohesion,
+subtle footer signature integrated naturally at bottom reading:
+“Prompt Design © ketogenicdieto on Threads”.
+
+COLOR PALETTE:
+[PRIMARY BRAND COLOR]
+[SECONDARY CONTRAST COLOR]
+[ACCENT COLOR]
+
+QUALITY:
+Ultra high resolution,
+8K commercial rendering,
+Behance-level advertising quality,
+Pinterest-trending campaign aesthetics,
+professional FMCG poster design,
+high-end brand presentation,
+sharp typography edges,
+premium visual storytelling,
+commercial social-media masterpiece.
+
+```
