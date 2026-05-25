@@ -45,3 +45,56 @@ English version of the prompt for video generation
   }
 ]
 ```
+
+## Prompt for video generation with Kling 3
+* The prompt is in English, but you can also use Thai if you want to.
+* The video will be generated in 3 parts, each part has a different prompt and duration
+* The total duration of the video will be 8 seconds, so you can adjust the duration of each part accordingly
+* Make sure to use the exact model and outfit from the reference photo in the prompt, so that the video will look consistent with the photo
+* Do not include any text, captions, or logos in the prompt, as the video will be used for social media and should look natural and authentic.  
+* You can use the example prompts provided above as a reference, but feel free to modify them to better suit your needs and style.
+
+### Example prompt for video generation with Kling 3 in english
+* Walk from earth to the moon, wearing a space suit, with a rocket in the background. The video should be in portrait mode, with a duration of 8 seconds, and no audio. The style should be cinematic and realistic, with no text, captions, or logos.
+
+```[
+  {
+    "prompt": "Walk from earth to the moon, wearing a space suit, with a rocket in the background. The video should be in portrait mode, with a duration of 8 seconds, and no audio. The style should be cinematic and realistic, with no text, captions, or logos.",
+    "duration": 8
+  }
+]
+```
+
+### Example prompt for video generation with Kling 3 in Thai
+* เดินจากโลกไปยังดวงจันทร์ สวมชุดอวกาศ มีจรวดอยู่ในพื้นหลัง วิดีโอควรเป็นแนวตั้ง มีความยาว 8 วินาที และไม่มีเสียง สไตล์ควรเป็นภาพยนตร์และสมจริง ไม่มีข้อความ คำบรรยาย หรือโลโก้
+
+```[
+  {
+    "prompt": "เดินจากโลกไปยังดวงจันทร์ สวมชุดอวกาศ มีจรวดอยู่ในพื้นหลัง วิดีโอควรเป็นแนวตั้ง มีความยาว 8 วินาที และไม่มีเสียง สไตล์ควรเป็นภาพยนตร์และสมจริง ไม่มีข้อความ คำบรรยาย หรือโลโก้",
+    "duration": 8
+  }
+]
+``` 
+
+Example 3 steps video generation prompt for Kling 3 in Thai
+* 3 seconds
+* 3 seconds
+* 2 seconds
+
+```
+[
+  {
+    "prompt": "เดินจากโลกไปยังดวงจันทร์ สวมชุดอวกาศ มีจรวดอยู่ในพื้นหลัง วิดีโอควรเป็นแนวตั้ง มีความยาว 3 วินาที และไม่มีเสียง สไตล์ควรเป็นภาพยนตร์และสมจริง ไม่มีข้อความ คำบรรยาย หรือโลโก้",
+    "duration": 3
+  },
+  {
+    "prompt": "เดินจากโลกไปยังดวงจันทร์ สวมชุดอวกาศ มีจรวดอยู่ในพื้นหลัง วิดีโอควรเป็นแนวตั้ง มีความยาว 3 วินาที และไม่มีเสียง สไตล์ควรเป็นภาพยนตร์และสมจริง ไม่มีข้อความ คำบรรยาย หรือโลโก้",
+    "duration": 3
+  },
+  {
+    "prompt": "เดินจากโลกไปยังดวงจันทร์ สวมชุดอวกาศ มีจรวดอยู่ในพื้นหลัง วิดีโอควรเป็นแนวตั้ง มีความยาว 2 วินาที และไม่มีเสียง สไตล์ควรเป็นภาพยนตร์และสมจริง ไม่มีข้อความ คำบรรยาย หรือโลโก้",
+    "duration": 2
+  }
+]
+```
+
